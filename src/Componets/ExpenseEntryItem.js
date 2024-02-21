@@ -34,7 +34,7 @@ export default class ExpenseEntryItem extends Component {
                     <thead>
                         <tr>
                             <th>Item</th>
-                            <th>Amount</th>
+                            <th>Amount ss</th>
                             <th>Date</th>
                             <th>Category</th>
                         </tr>
